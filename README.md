@@ -18,6 +18,10 @@
   Por lo que se configura con los tres pares de
   cordenadas con sus respectivas distancias focales
 
+  
+![Ejemplo Imagen a Procesar](https://github.com/ericbarragan/ImageColorFilter/edit/main/Mesa5.bmp)
+
+
 
 📌  **Otras ventajas**
 
