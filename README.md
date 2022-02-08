@@ -5,18 +5,13 @@
 
 📌 **BMP** 
 
-* Tiene un manejo básico de imagenes en formato BMP
-  sin requerir de más librerias que las base en GCC.
+* Tiene un manejo básico de imagenes en formato BMP sin requerir de más librerias que las base en GCC.
 
 
 📌  **Filtro fácil de configurar**
 
-* Filtra rangos configurables de color en mapas RGB
-  en base a la formula de la elipse por pares de color
-  R con G, G con B y G con R, formando 3 filtros
-  que se complementan.
-  Por lo que se configura con los tres pares de
-  cordenadas con sus respectivas distancias focales
+* Filtra rangos configurables de color en mapas RGB en base a la formula de la elipse por pares de color R con G, G con B y G con R, formando 3 filtros que se complementan.
+  Por lo que se configura con los tres pares de cordenadas con sus respectivas distancias focales
 
   
 ![Ejemplo Imagen a Procesar](https://github.com/ericbarragan/ImageColorFilter/blob/main/Mesa5mini.bmp) ![Ejemplo Imagen a Procesar](https://github.com/ericbarragan/ImageColorFilter/blob/main/Mesa5_Fmini.bmp)
