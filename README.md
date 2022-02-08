@@ -19,8 +19,7 @@
   cordenadas con sus respectivas distancias focales
 
   
-![Ejemplo Imagen a Procesar](https://github.com/ericbarragan/ImageColorFilter/edit/main/Mesa5.bmp)
-
+![Ejemplo Imagen a Procesar](https://github.com/ericbarragan/ImageColorFilter/edit/main/Mesa5mini.bmp)
 
 
 📌  **Otras ventajas**
@@ -40,6 +39,8 @@
   oscuras y claras donde tiene menos rango de variación
   el color, por lo que se pueden abarcar sombras y brillo
   sin invadir otros rangos de color.
+
+  ![Ejemplo Imagen a Procesar](https://github.com/ericbarragan/ImageColorFilter/blob/main/PaletaColores.bmp)
 
 
 ## Un poco de abstraccion sobre Colores
