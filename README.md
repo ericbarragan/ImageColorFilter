@@ -14,7 +14,9 @@
   Por lo que se configura con los tres pares de cordenadas con sus respectivas distancias focales
 
   
-<div align=”center”>![Ejemplo Imagen a Procesar](https://github.com/ericbarragan/ImageColorFilter/blob/main/Mesa5mini.bmp) ![Ejemplo Imagen a Procesar](https://github.com/ericbarragan/ImageColorFilter/blob/main/Mesa5_Fmini.bmp)</div>
+<div align=”center”>
+  ![Ejemplo Imagen a Procesar](https://github.com/ericbarragan/ImageColorFilter/blob/main/Mesa5mini.bmp) ![Ejemplo Imagen a Procesar](https://github.com/ericbarragan/ImageColorFilter/blob/main/Mesa5_Fmini.bmp)
+</div>
 
 
 📌  **Otras ventajas**
