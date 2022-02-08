@@ -25,8 +25,8 @@
 
 * La figura elíptica permite extender la zona filtrada haciéndola más angosta conforme se acerca a las zonas oscuras y claras donde tiene menos rango de variación el color, por lo que se pueden abarcar sombras y brillo sin invadir otros rangos de color.
 
-
-        ![Ejemplo de los 3 planos de Representacion de Color Filtrados](https://github.com/ericbarragan/ImageColorFilter/blob/main/PaletaColores.bmp)
+        
+        ![Ejemplo Imagen a Procesar](https://github.com/ericbarragan/ImageColorFilter/blob/main/PaletaColores.bmp)
 
 
 ## Un poco de abstraccion sobre Colores
