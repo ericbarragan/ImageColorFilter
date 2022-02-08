@@ -14,16 +14,17 @@
   Por lo que se configura con los tres pares de cordenadas con sus respectivas distancias focales
 
   
-![Ejemplo Imagen a Procesar](https://github.com/ericbarragan/ImageColorFilter/blob/main/Mesa5mini.bmp) ![Ejemplo Imagen a Procesar](https://github.com/ericbarragan/ImageColorFilter/blob/main/Mesa5_Fmini.bmp)
+<div align=”center”>![Ejemplo Imagen a Procesar](https://github.com/ericbarragan/ImageColorFilter/blob/main/Mesa5mini.bmp) ![Ejemplo Imagen a Procesar](https://github.com/ericbarragan/ImageColorFilter/blob/main/Mesa5_Fmini.bmp)</div>
 
 
 📌  **Otras ventajas**
 
 * Es practico en el preprocesamiento de imagenes sinembargo no es eficiente debido a las operaciones matemáticas que realiza.
 
-* Se puede utilizar tanto en forma positiva como negativa, por lo que igualmente sirve para filtrar zonas y objetos que nos son de interes, o bien para tomar las zonas y objetos de interes y eliminar el resto.
+* Se puede utilizar tanto en forma positiva como negativa, por lo que igualmente sirve para filtrar zonas y objetos que no son de interes, o bien para tomar las zonas y objetos de interes y eliminar el resto.
 
 * La figura elíptica permite extender la zona filtrada haciéndola más angosta conforme se acerca a las zonas oscuras y claras donde tiene menos rango de variación el color, por lo que se pueden abarcar sombras y brillo sin invadir otros rangos de color.
+
 
         ![Ejemplo de los 3 planos de Representacion de Color Filtrados](https://github.com/ericbarragan/ImageColorFilter/blob/main/PaletaColores.bmp)
 
@@ -34,7 +35,7 @@
   
   En este cubo tendremos en vertices opuestos el blanco y el negro, y en los puntos intermedios todas las combinaciones de color.
   
-  Cualquier combinacion de colores tiene versiones mas claras y más oscuras, hasta llegar al ser blancas o negras. Estos colores en los objetos, además, cambian según los reflejos que reciben de los objetos a su alrededor, produciendo cambios en el color del objeto.
+  Cualquier combinacion de colores tiene versiones mas claras y más oscuras, hasta llegar a ser blancas o negras. Estos colores en los objetos, además, cambian según los reflejos que reciben de los objetos a su alrededor, produciendo cambios en el color del objeto.
   
   Para poder filtrar las variaciones de color que percibe la camara, por eso no solo seleccionamos un color, más requerimos un rango de variaciones, que será más grande entre más variantes de color tengan los objetos, en combinación con sus distancias y ángulos de estos.
 
