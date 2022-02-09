@@ -17,6 +17,12 @@
 ![Ejemplo Imagen a Procesar](https://github.com/ericbarragan/ImageColorFilter/blob/main/Mesa5mini.bmp) ![Ejemplo Imagen a Procesar](https://github.com/ericbarragan/ImageColorFilter/blob/main/Mesa5_Fmini.bmp)
 
 
+📌  **Aplicaiones**
+* Ayuda a discriminar zonas a trabajar, pudiendo reducir el tiempo de procesamiento. En especial cuando es una secuencia en tiempo real, por lo que ya se conoce tanto el entorno como los objetos de interes y sus colores; reduciendo las zonas de barrido de la ventana deslizante.
+
+* Cuando el color es una caracteristica distintiva, consumirá mucho menos computo el seguir un objeto, incluso nos podremos dar el lujo de procesar las imágenes para seguimiento a menor resolución, y ya en la zona específica comparar las variaciones de color y luminosisdad, de manera de que si no cambian o se mantiene la predicción de seguimiento, no se requerirá procesar la imagen a mas resolución y detalle, o bien hasta que esto ocurra. Como la hace nuestro cerebro.
+
+
 📌  **Otras ventajas**
 
 * Es practico en el preprocesamiento de imagenes sinembargo no es eficiente debido a las operaciones matemáticas que realiza.
